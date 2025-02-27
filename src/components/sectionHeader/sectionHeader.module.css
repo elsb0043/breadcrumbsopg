@@ -1,0 +1,7 @@
+.sectionHeader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem;
+    font-size: 20px;
+}

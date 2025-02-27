@@ -1,0 +1,10 @@
+.breadcrumbsH1 {
+    margin: 2rem 0rem 0rem 2rem;
+}
+
+.crumbs {
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+    color: red;
+    text-decoration: underline;
+}
